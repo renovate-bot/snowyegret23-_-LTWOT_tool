@@ -31,7 +31,7 @@ if \_\_name\_\_ == "\_\_main\_\_":
   (참고용 기계번역 작업본: https://drive.google.com/drive/folders/1uaTJrtudqyS0JkEYmxlim4yUe5neeHwu?usp=sharing)
 
 7\. 수정이 완료되었으면, main.py를 텍스트 에디터로 열어 'file\_info' 딕셔너리 내부 각 파일의 doc\_id와 sheet\_id를 수정  
-  (예를 들어, 'Lab\_Strings'의 구글 스프레드시트 주소가 'https://docs.google.com/spreadsheets/d/1Bdxm6u0XjzDBDBpKJDRIUmyf7yuCx_IV9WEbhkMiU58/edit#gid=413374275'라면  
+  (예를 들어, 'Lab\_Strings'의 구글 스프레드시트 주소가 'https://docs.google.com/spreadsheets/d/1Bdxm6u0XjzDBDBpKJDRIUmyf7yuCx_IV9WEbhkMiU58/edit#gid=413374275' 라면  
   1Bdxm6u0XjzDBDBpKJDRIUmyf7yuCx\_IV9WEbhkMiU58이 doc\_id고, 413374275가 sheet\_id가 됨.)
 
 8\. main.py 하단부 'if \_\_name\_\_ == "\_\_main\_\_":' if문 코드를 아래와 같이 수정 후 실행  
